@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Lowspecgamer2989...........
+- 👀 I’m interested in coding and gaming...............
+- 🌱 I’m currently learning C++ and Python...
+- 💞️ I’m looking to collaborate on no one and nothing LoL ...l
+
+<!---
+Lowspecgamer2989/Lowspecgamer2989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
